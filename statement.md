@@ -1,12 +1,16 @@
-# Europe Should Adopt Memory Safe Technology to Achieve a secure future
+# Improving Europe's cybersecurity posture through memory safety
 
 Apr 15, 2025\.  First draft by Tara Tarakiyee and Hugo van de Pol.
 
 Goal: collect comments
 
+Aug 04, 2025\.  Revised draft by Benjamin Schilling based on comments provided by community.
+
+Goal: Agree on draft.
+
 # Executive Summary
 
-Memory safety vulnerabilities account for 60-70% of all software security issues in major digital systems written in memory-unsafe programming languages. As cyber threats intensify globally, Europe has the groundwork and potential to make memory safe technologies a cornerstone of secure digital infrastructure. This statement calls for decisive action from European governmentdecision makers and industry leaders to prioritize memory safety as part of a comprehensive "secure-by-design" approach.
+Memory safety vulnerabilities account for 60-70% of all software security issues in major digital systems written in memory-unsafe programming languages. As cyber threats intensify globally, Europe has the groundwork and potential to make memory safe technologies a cornerstone of secure digital infrastructure. This statement calls for decisive action from European government decision makers and industry leaders to prioritize memory safety as part of a comprehensive "secure-by-design" approach.
 
 # Introduction
 
@@ -30,7 +34,7 @@ These memory-related vulnerabilities:
 
 * Account for [60%–70% of all software security vulnerabilities](https://www.chromium.org/Home/chromium-security/memory-safety/) in large codebases written in memory unsafe languages;
 
-* Are typically hard to detect, costly to fix when they appear in production, and often used in exploits;
+* Are typically hard to detect, costly to fix when they appear in production, and often used in exploits [](https://heartbleed.com/);
 
 * Persist despite decades of developer training and tooling aimed at preventing them.
 
@@ -46,6 +50,8 @@ Choosing memory safe technologies is one of the most impactful decisions a manuf
 
 * Prevention becomes the default: By enforcing security at the language level, the software becomes safer by default, not by afterthought.
 
+* Ecosystems around memory safe languages improve developer efficiency: Developer experience of all major memory safe languages contributes to increased productivity, as they provide integrated tools for package management, linting, testing, dependency scanning and the like.
+
 # The Urgency for Action: Secure-by-Design
 
 We are at a pivotal moment:
@@ -54,19 +60,20 @@ We are at a pivotal moment:
 
 * The cost of cyber breaches continues to climb, with some incidents costing billions;
 
-* There is an acute shortage of cybersecurity professionals and qualified software engineers. Moreover, universities are largely moving away from memory-unsafe languages like C in their undergraduate courses. 
+* While there is an acute shortage of cybersecurity professionals and qualified software engineers, 
+  more and more memory safe languages (e.g. Java, Python and Rust) are taught at Universities due to various reasons, like accessibility of programming languages.
 
 All of this demands a shift in mindset: from reactive patching to proactive prevention.
 
 Considering security earlier in the development lifecycle is not a new concept, but certainly no longer optional. This has been recognized in Europe by the passing of the Cyber Resilience Act (CRA) and its security-by-design requirement. 
 
-As the standards for the CRA are currently being developed, it’s important to consider memory safety early in their design, and include strategies to shift towards memory-safe tech where feasible, and include resources for remediation where not.
+As the standards for the CRA compliance are currently being developed, it’s important to consider memory safety early in their design, and include strategies to shift towards memory safe tech where feasible, and include resources for remediation where not.
 
 # Europe Has the Groundwork, but needs to act decisively
 
 For decades, memory unsafe languages like C and C++ were the only viable option for performance-critical systems such as operating systems, browsers, and networking stacks. This is no longer the case.
 
-With the rise of modern, performant memory safe languages—most notably Rust—it is now feasible to build even low-level systems securely. Furthermore, we are seeing encouraging advances towards memory-safe C++. 
+With the rise of modern, performant memory safe languages—most notably Rust—it is now feasible to build even low-level systems securely. Furthermore, we are seeing encouraging advances towards memory safe C++. 
 
 That said, we are not advocating a wholesale rewrite of legacy systems. That would not be feasible. But we can and should:
 
@@ -81,20 +88,20 @@ The path towards memory safety is not an easy one, but in our view the long-term
 * Developers and companies in Europe have been significant contributors to open-source, memory safe critical infrastructure, such as implementations of the critical internet protocols Domain Name System (DNS) and Network Time Protocol (NTP), as well as in industries such as energy and automobile sectors;    
 * There is growing adoption of memory safe languages in critical infrastructure applications and industry, according to the latest State of Rust survey. 
 
-While the foundation exists, to get to a memory-safe future, we need shifts in development teams and supply chains, as well as long-term planning and coordinated action across industries and governments.
+While the foundation exists, to get to a memory safe future, we need shifts in development teams and supply chains, as well as long-term planning and coordinated action across industries and governments.
 
 # We Call Upon Government and Industry to:
 
 * **Take a decisive stance**: Formally recognize memory safety as a cornerstone of Europe's cyber resilience strategy and include specific memory safety requirements in the implementation guidelines for the Cyber Resilience Act. Where existing memory-unsafe languages are in use, this would include recommendations on measures to reduce risk where feasible.
 
-* **Understand the economic and security business case for memory safety:** Look into the long-term financial advantages of memory-safe technologies, including reduced security incident costs, decreased downtime, lower maintenance burdens, and enhanced customer trust.
+* **Understand the economic and security business case for memory safety:** Look into the long-term financial advantages of memory safe technologies, including reduced security incident costs, decreased downtime, lower maintenance burdens, and enhanced customer trust.
 
-* **Establish clear migration pathways**: Issue guidelines and strategies to help organizations assess and transition critical digital infrastructure components to memory-safe technologies that builds on best practices and existing work in open standards bodies.   
-* **Invest in capacity building**: Create and fund specialized training programs to address the skill shortage in memory-safe programming, partnering with universities to align outputs with the future needs of industry. 
+* **Establish clear migration pathways**: Issue guidelines and strategies to help organizations assess and transition critical digital infrastructure components to memory safe technologies that builds on best practices and existing work in open standards bodies.   
+* **Invest in capacity building**: Create and fund specialized training programs to address the skill shortage in memory safe programming, partnering with universities to align outputs with the future needs of industry. 
 
-* **Provide transition support**: Establish funding mechanisms and technical resources to assist small and medium enterprises in evaluating and implementing memory-safe alternatives in their development processes.
+* **Provide transition support**: Establish funding mechanisms and technical resources to assist small and medium enterprises in evaluating and implementing memory safe alternatives in their development processes.
 
-* **Foster the Memory Safe Ecosystem**: Invest in existing and potential open source projects and companies developing memory-safe technologies through targeted support and public-private partnerships.
+* **Foster the Memory Safe Ecosystem**: Invest in existing and potential open source projects and companies developing memory safe technologies through targeted support and public-private partnerships.
 
 * **Require risk assessment and mitigation**: Make memory safety evaluations and mitigation planning a mandatory component of security risk assessments for critical infrastructure providers and government suppliers.
 
