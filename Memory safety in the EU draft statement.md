@@ -66,7 +66,7 @@ As the standards for the CRA are currently being developed, it’s important to 
 
 For decades, memory unsafe languages like C and C++ were the only viable option for performance-critical systems such as operating systems, browsers, and networking stacks. This is no longer the case.
 
-With the rise of modern, performant memory safe languages—most notably Rust—it is now feasible to build even low-level systems securely. Furthermore, we are seeing encouraging advances towards memory-safe C++. 
+With the rise of modern, performant memory safe languages—most notably Rust for low-level systems, and languages like Go, Swift, and Python for higher-level applications—memory safety is now achievable across the entire software stack. Furthermore, we are seeing encouraging advances towards memory-safe C++. 
 
 That said, we are not advocating a wholesale rewrite of legacy systems. That would not be feasible. But we can and should:
 
