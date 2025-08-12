@@ -72,7 +72,7 @@ As the standards for the CRA compliance are currently being developed, it’s im
 
 For decades, memory unsafe languages like C and C++ were the only viable option for performance-critical systems such as operating systems, browsers, and networking stacks. This is no longer the case \[[1](https://www.theregister.com/2025/05/08/ubuntu_2510_makes_rusk_sudo_default/), [2](https://security.googleblog.com/2021/04/rust-in-android-platform.html), [3](https://docs.kernel.org/rust/index.html), [4](https://github.com/dwizzzle/Presentations/blob/master/David%20Weston%20-%20Windows%2011%20Security%20by-default%20-%20Bluehat%20IL%202023.pdf)\].
 
-With the rise of modern, performant memory safe languages—most notably Rust—it is now feasible to build even low-level systems securely. Furthermore, we are seeing encouraging advances towards memory safe C++ \[[1](https://safecpp.org/)\]. 
+With the rise of modern, performant memory safe languages—most notably Rust for low-level systems, and languages like Go, Swift, and Python for higher-level applications—memory safety is now achievable across the entire software stack. Furthermore, we are seeing encouraging advances towards memory-safe C++. 
 
 That said, we are not advocating a wholesale rewrite of legacy systems. That would not be feasible. But we can and should:
 
