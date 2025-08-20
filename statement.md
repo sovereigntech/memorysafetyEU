@@ -60,7 +60,7 @@ We are at a pivotal moment:
 
 * The cost of cyber breaches continues to climb, with some incidents costing billions;
 
-* While there is an acute shortage of cybersecurity professionals and qualified software engineers, more and more memory safe languages are taught at Universities due to various reasons, like accessibility of programming languages.
+* While there is an acute shortage of cybersecurity professionals and qualified software engineers; \[[1](https://www.asisonline.org/security-management-magazine/latest-news/today-in-security/2024/october/skills-shortage-cybersecurity/)\]. 
 
 All of this demands a shift in mindset: from reactive patching to proactive prevention \[[1](https://www.orangecyberdefense.com/global/security-navigator)\].
 
