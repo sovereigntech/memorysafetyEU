@@ -18,7 +18,7 @@ Today, the authoring organisations are releasing a joint statement underscoring 
 
 With [digital threats stemming from vulnerabilities escalating](https://www.enisa.europa.eu/sites/default/files/2024-11/ENISA%20Threat%20Landscape%202024_0.pdf), the urgency for a more resilient digital infrastructure has never been greater.
 
-In prior years major publications by the U.S. Cybersecurity and Infrastructure Security Agency (CISA) and the U.S. White House have set the tone on the importance of memory safety \[[1](https://www.cisa.gov/sites/default/files/2023-10/Shifting-the-Balance-of-Cybersecurity-Risk-Principles-and-Approaches-for-Secure-by-Design-Software.pdf), [2](https://www.cisa.gov/resources-tools/resources/case-memory-safe-roadmaps), [3](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/02/Final-ONCD-Technical-Report.pdf), [4](https://www.cisa.gov/resources-tools/resources/product-security-bad-practices), [5](https://www.cisa.gov/resources-tools/resources/secure-design-alert-eliminating-buffer-overflow-vulnerabilities)\], however in recent times the US-based agency is facing major budget cuts. Leadership from European institutions and organisations to secure our common digital infrastructure is not only long overdue, it is also imperative in the current geopolitical moment. With the EU Cyber Resilience Act, a first legislation prioritises secure-by-design development, for which the use of memory safe technology is essential.
+In prior years major publications by the U.S. Cybersecurity and Infrastructure Security Agency (CISA) and the U.S. White House have set the tone on the importance of memory safety \[[1](https://www.cisa.gov/sites/default/files/2023-10/Shifting-the-Balance-of-Cybersecurity-Risk-Principles-and-Approaches-for-Secure-by-Design-Software.pdf), [2](https://www.cisa.gov/resources-tools/resources/case-memory-safe-roadmaps), [3](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/02/Final-ONCD-Technical-Report.pdf), [4](https://www.cisa.gov/resources-tools/resources/product-security-bad-practices), [5](https://www.cisa.gov/resources-tools/resources/secure-design-alert-eliminating-buffer-overflow-vulnerabilities), [6](https://www.ncsc.nl/actueel/nieuws/2025/07/22/casus-citrix-kwetsbaarheid)\], however in recent times the US-based agency is facing major budget cuts. Leadership from European institutions and organisations to secure our common digital infrastructure is not only long overdue, it is also imperative in the current geopolitical moment. With the EU Cyber Resilience Act, a first legislation prioritises secure-by-design development, for which the use of memory safe technology is essential.
 
 We call on:
 
@@ -66,7 +66,7 @@ All of this demands a shift in mindset: from reactive patching to proactive prev
 
 Considering security earlier in the development lifecycle is not a new concept, but certainly no longer optional. This has been recognised in Europe by the passing of the Cyber Resilience Act (CRA) and its security-by-design requirement. 
 
-As the standards for the CRA compliance are currently being developed, it’s important to consider memory safety early in their design, and include strategies to shift towards memory safe tech where feasible, and include resources for remediation where not.
+As the standards for the CRA compliance are currently being developed, it’s important to consider memory safety early in their design, and include strategies to shift towards memory safe tech where feasible to rule out an entire class of vulnerabilities, and include resources for remediation where not.
 
 # Europe Has the Groundwork, but needs to act decisively
 
@@ -82,7 +82,7 @@ That said, we are not advocating a wholesale rewrite of legacy systems. That wou
 
 The path towards memory safety is not an easy one, but in our view the long-term security, economic, and societal benefits far outweigh the costs of inaction. Europe already has a strong foundation for this transition:
 
-* Developers and companies in Europe have been significant contributors to open source, memory safe critical infrastructure, such as implementations of the critical internet protocols Domain Name System (DNS) and Network Time Protocol (NTP), as well as in industries such as energy and automobile sectors;    
+* Developers and companies in Europe have been significant contributors to open source, memory safe digital infrastructure, such as implementations of the critical internet protocols Domain Name System (DNS) and Network Time Protocol (NTP), as well as in industries such as energy and automobile sectors;    
 * There is growing adoption of memory safe languages in critical infrastructure applications and industry, according to the latest State of Rust survey. 
 
 While the foundation exists, to get to a memory safe future, we need shifts in development teams and supply chains, as well as long-term planning and coordinated action across industries and governments.
