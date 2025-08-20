@@ -38,7 +38,7 @@ These memory-related vulnerabilities:
 
 * Persist despite decades of developer training and tooling aimed at preventing them.
 
-Memory safe languages (e.g., **Rust**, **Swift**, or **Java**) mitigate these risks by enforcing strict rules, making it impossible to introduce entire classes of memory-related bugs by default. This makes memory safety one of the most powerful methods for achieving secure-by-design systems.
+Memory safe languages (e.g., **Rust**, **Python**, **Swift**, or **Java**) mitigate these risks by enforcing strict rules, making it impossible to introduce entire classes of memory-related bugs by default. This makes memory safety one of the most powerful methods for achieving secure-by-design systems.
 
 # Why Memory Safe Tech Is Crucial
 
