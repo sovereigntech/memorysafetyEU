@@ -32,7 +32,7 @@ Memory safety refers to the ability of programming languages — the very buildi
 
 These memory-related vulnerabilities:
 
-* Account for [60%–70% of all software security vulnerabilities](https://www.chromium.org/Home/chromium-security/memory-safety/) in large codebases written in memory unsafe languages;
+* Account for [60%–70% of all software security vulnerabilities](https://www.chromium.org/Home/chromium-security/memory-safety/) in large codebases written in memory unsafe languages. Examples of such code bases include the operating systems, web browsers, and screen sharing solutions that businesses and citizens use every day; 
 
 * Are typically hard to detect, costly to fix when they appear in production, and often used in exploits \[[1](https://heartbleed.com/), [2](https://googleprojectzero.blogspot.com/p/0day.html), [3](https://www.reuters.com/technology/cybersecurity/china-cyber-spies-hacked-computers-dutch-defence-ministry-report-2024-02-06/), [4](https://www.cisa.gov/news-events/ics-advisories/icsa-20-343-01)\];
 
