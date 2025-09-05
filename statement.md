@@ -87,15 +87,13 @@ The path towards memory safety is not an easy one, but in our view the long-term
 
 While the foundation exists, to get to a memory safe future, we need shifts in development teams and supply chains, as well as long-term planning and coordinated action across industries and governments.
 
-# We Call To:
+# We call upon digital policy makers in Europe to:
 
-* **Take a decisive stance**: Formally recognise memory safety as a cornerstone of Europe's cyber resilience strategy and include specific memory safety requirements in the implementation guidelines for the Cyber Resilience Act. Where existing memory-unsafe languages are in use, this would include recommendations on measures to reduce risk where feasible.
-
-* **Industries for understanding the economic and security business case for memory safety:** Look into the long-term financial advantages of memory safe technologies, including reduced security incident costs, decreased downtime, lower maintenance burdens, and enhanced customer trust.
-
-* **Standardisation Bodies to establish clear migration pathways**: Issue guidelines and strategies to help organisations assess and transition critical digital infrastructure components to memory safe technologies that builds on best practices and existing work in open standards bodies. 
-
-* **EU and governments to invest in capacity building, provide transition support and require risk assessment and mitigation**: Create and fund specialised training programs to address the skill shortage in memory safe programming, partnering with universities to align outputs with the future needs of industry. Establish funding mechanisms and technical resources to assist small and medium enterprises in evaluating and implementing memory safe alternatives in their development processes. Invest in existing and potential open source projects and companies developing memory safe technologies through targeted support and public-private partnerships. Make memory safety evaluations and mitigation planning a mandatory component of security risk assessments for critical infrastructure providers and government suppliers.
+* **Take a decisive stance:** Formally recognise memory safety as a cornerstone of Europe's cyber resilience strategy and include specific memory safety requirements in the implementation guidelines for the Cyber Resilience Act. Ensure new software and projects take memory safety into account. 
+* **Establish clear migration pathways:** Issue guidelines and strategies to help organisations assess and transition critical digital infrastructure components to memory safe technologies that builds on best practices and existing work in open standards bodies.
+* **Invest in capacity building:**  Create and fund specialised training programs to address the skill shortage in memory safe programming, partnering with universities to align outputs with the future needs of industry.
+* **Provide funding for memory-safe transition:** Establish funding mechanisms and technical resources to assist small and medium enterprises in evaluating and implementing memory safe alternatives in their development processes. Invest in existing and potential open source projects and companies developing memory safe technologies through targeted support and public-private partnerships. 
+* **Require risk assessment and mitigation:** Make memory safety evaluations and mitigation planning a mandatory component of security risk assessments for critical infrastructure providers and government suppliers.
 
 # Other References
 
