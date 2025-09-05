@@ -6,7 +6,11 @@ Goal: collect comments
 
 # Executive Summary
 
-Memory safety vulnerabilities account for 60-70% of all software security issues in major digital systems written in memory-unsafe programming languages. As cyber threats intensify globally, Europe has the groundwork and potential to make memory safe technologies a cornerstone of secure digital infrastructure. This statement calls for decisive action from European governmentdecision makers and industry leaders to prioritize memory safety as part of a comprehensive "secure-by-design" approach.
+The number of cybersecurity incidents that affect European citizens and businesses is rising at an alarming rate. 70% of all security vulnerabilities share the same root cause and can be prevented by using modern, so-called memory-safe technology. This technology is not new, but the rate of adoption is slow due to a lack of short-term economic incentive and support for industry.
+
+Large-scale adoption of memory-safe technology perfectly fits Europe’s forthcoming secure-by-design approach to cybersecurity. In fact, it’s the most effective way to protect Europe’s cybersecurity, reduce cybersecurity costs, and to foster innovation.
+
+The supporting organizations call on European and national policy makers to act, out of obligation as well as untapped opportunity: to provide clear incentives and support for the large-scale adoption of memory-safe technology.
 
 # Introduction
 
