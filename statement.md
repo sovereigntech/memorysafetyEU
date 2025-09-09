@@ -66,26 +66,20 @@ All of this demands a shift in mindset: from reactive patching to proactive prev
 
 Considering security earlier in the development lifecycle is not a new concept, but certainly no longer optional. This has been recognised in Europe by the passing of the Cyber Resilience Act (CRA) and its security-by-design requirement. 
 
-As the standards for the CRA compliance are currently being developed, it’s important to consider memory safety early in their design, and include strategies to shift towards memory safe tech where feasible to rule out an entire class of vulnerabilities, and include resources for remediation where not.
+# Where we are today
+As CISA previously concluded: the most effective, systematic and scalable way to get rid of all memory-safety vulnerabilities is to build new systems using memory-safe by default tech, and to migrate legacy systems step by step.
 
-# Europe Has the Groundwork, but needs to act decisively
+In Europe, there is now some adoption of modern memory-safe tech, and several incentives for it, including:
 
-For decades, memory unsafe languages like C and C++ were the only viable option for performance-critical systems such as operating systems, browsers, and networking stacks. This is no longer the case \[[1](https://www.theregister.com/2025/05/08/ubuntu_2510_makes_rusk_sudo_default/), [2](https://security.googleblog.com/2021/04/rust-in-android-platform.html), [3](https://docs.kernel.org/rust/index.html), [4](https://github.com/dwizzzle/Presentations/blob/master/David%20Weston%20-%20Windows%2011%20Security%20by-default%20-%20Bluehat%20IL%202023.pdf)\].
++ regulation that demands a secure-by-design approach to cybersecurity (e.g. the CRA, which is in development); 
++ the awareness that the current reactive approach to cybersecurity is no longer feasible (orange report);
++ the generally high skill level of engineers, which lowers the bar for using modern tech. 
 
-With the rise of modern, performant memory safe languages — most notably Rust for low-level systems, and languages like Go, Swift, and Python for higher-level applications — memory safety is now achievable across the entire software stack. Furthermore, we observe encouraging advances towards memory-safe C++. 
+At the same time, individual businesses, including large industry players that build part of our digital infrastructure, perceive a lack of short-term economic incentive in the midst of fierce international competition to start migrating parts of large existing code bases. 
 
-That said, we are not advocating a wholesale rewrite of legacy systems. That would not be feasible. But we can and should:
+Society as a whole is bearing the long-term consequences and costs of the persisting vulnerabilities in these systems. In The Netherlands for example, the root cause of both the recent hack of the Public Prosecution office and China spying on the Ministry of Defense in 2022-2023 was memory-unsafe code. 
 
-* Use memory safe languages for the development of new code or components; 
-* Gradually transition critical components in legacy systems where feasible;
-* Introduce meaningful mitigations to reduce the risk in existing and legacy memory-unsafe systems. 
-
-The path towards memory safety is not an easy one, but in our view the long-term security, economic, and societal benefits far outweigh the costs of inaction. Europe already has a strong foundation for this transition:
-
-* Developers and companies in Europe have been significant contributors to open source, memory safe digital infrastructure, such as implementations of the critical internet protocols Domain Name System (DNS) and Network Time Protocol (NTP), as well as in industries such as energy and automobile sectors;    
-* There is growing adoption of memory safe languages in critical infrastructure applications and industry, according to the latest State of Rust survey. 
-
-While the foundation exists, to get to a memory safe future, we need shifts in development teams and supply chains, as well as long-term planning and coordinated action across industries and governments.
+To us this means that regulatory bodies have the obligation to recognize the detriment of the current situation, but also the opportunities that faster adoption of memory-safe technologies would bring: lowering the costs of cybersecurity, both for companies and for society, and ensuring technological innovation, thus strengthening Europe’s competitive position.
 
 # We Call To:
 
