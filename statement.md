@@ -16,15 +16,9 @@ Memory safety vulnerabilities account for 60-70% of all software security issues
 
 Today, the authoring organisations are releasing a joint statement underscoring the critical importance of adopting memory safe technology as a foundational pillar of digital infrastructure that is secure by design.
 
-With [digital threats stemming from vulnerabilities escalating](https://www.enisa.europa.eu/sites/default/files/2024-11/ENISA%20Threat%20Landscape%202024_0.pdf), the urgency for a more resilient digital infrastructure has never been greater.
+Enisa reports [1] that digital threats stemming from vulnerabilities are escalating at an alarming rate. Using memory-safe technology is crucial for building systems that are secure-by-design. In prior years, the U.S. Cybersecurity and Infrastructure Security Agency (CISA) and the U.S. White House have outlined this in numerous publications [e.g. 2, 3, 4]. The broad support for this statement shows that many parties in Europe feel the same way.
 
-In prior years major publications by the U.S. Cybersecurity and Infrastructure Security Agency (CISA) and the U.S. White House have set the tone on the importance of memory safety \[[1](https://www.cisa.gov/sites/default/files/2023-10/Shifting-the-Balance-of-Cybersecurity-Risk-Principles-and-Approaches-for-Secure-by-Design-Software.pdf), [2](https://www.cisa.gov/resources-tools/resources/case-memory-safe-roadmaps), [3](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/02/Final-ONCD-Technical-Report.pdf), [4](https://www.cisa.gov/resources-tools/resources/product-security-bad-practices), [5](https://www.cisa.gov/resources-tools/resources/secure-design-alert-eliminating-buffer-overflow-vulnerabilities), [6](https://www.ncsc.nl/actueel/nieuws/2025/07/22/casus-citrix-kwetsbaarheid)\], however in recent times the US-based agency is facing major budget cuts. Leadership from European institutions and organisations to secure our common digital infrastructure is not only long overdue, it is also imperative in the current geopolitical moment. With the EU Cyber Resilience Act, a first legislation prioritises secure-by-design development, for which the use of memory safe technology is essential.
-
-We call on:
-
-* European decision-makers in government and industry (including regulators) to take a clear stance and develop guidance on adopting memory safe technologies.
-
-* Manufacturers and developers of digital infrastructure to evaluate the security and economic benefits of memory safe technologies and build strategic implementation roadmaps.
+The supporting parties call for European and national policy makers to acknowledge that the large-scale adoption of memory-safe tech in Europe is crucial, and to act accordingly by providing the incentives needed to substantially increase the current rate of adoption.
 
 # What Is Memory Safety?
 
