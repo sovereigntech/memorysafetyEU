@@ -38,7 +38,7 @@ Memory safe languages (e.g., **Rust**, **Python**, **Swift**, or **Java**) mitig
 
 Choosing memory safe technologies is one of the most impactful decisions a manufacturer of digital infrastructure components can make to improve cybersecurity. 
 
-* Security gains are systemic: By transitioning to memory safe languages, up to 70% of vulnerabilities can be eliminated.
+* Security vulnerabilities affect everyone: From online banking to airport operation large parts of everyones life have been affected by security vulnerabilties already. With the already existing technology up to 70% could have been mitigated from the beginning by applying memory safe technology.
 
 * Security becomes scalable: It reduces reliance on human vigilance, which is increasingly unsustainable in the face of talent shortages, increasingly complex systems, and growing attack surfaces.
 
