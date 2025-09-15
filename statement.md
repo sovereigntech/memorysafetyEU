@@ -1,13 +1,5 @@
 # Improving Europe's cybersecurity posture through memory safety
 
-Apr 15, 2025\.  First draft by Tara Tarakiyee and Hugo van de Pol.
-
-Goal: collect comments
-
-Aug 04, 2025\.  Revised draft by Benjamin Schilling based on comments provided by community.
-
-Goal: Agree on draft.
-
 # Executive Summary
 
 The number of cybersecurity incidents that affect European citizens and businesses is rising at an alarming rate. We've left the door wide open: attackers eagerly exploit vulnerabilities in our major digital systems, systems built using decades-old technology.
