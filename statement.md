@@ -2,7 +2,7 @@
 
 # Executive Summary
 
-The number of cybersecurity incidents that affect European citizens and businesses is rising at an alarming rate. 70% of the vulnerabilities in major digital systems built on decades-old technologies share the same root cause and can be prevented by using modern, *memory-safe technology*. 
+The number of cybersecurity incidents that affect European citizens and businesses is rising at an alarming rate \[[1](https://www.enisa.europa.eu/publications/enisa-threat-landscape-2024)\]. 70% of the vulnerabilities in major digital systems built on decades-old technologies share the same root cause and can be prevented by using modern, *memory-safe technology* \[[2](https://www.memorysafety.org/docs/memory-safety/#how-common-are-memory-safety-vulnerabilities)\]. 
 
 This technology is mature, perfectly fits Europe’s forthcoming secure-by-design approach to cybersecurity, and is the most effective way to protect Europe’s cybersecurity, to reduce cybersecurity costs, and to foster innovation. 
 
@@ -12,9 +12,9 @@ The supporting organisations call on European and national policymakers to act, 
 
 # Introduction
 
-Today, the authoring organisations are releasing a joint statement underscoring the critical importance of adopting memory-safe technology as a foundational pillar of digital infrastructure that is secure by design.
+Today, the authoring organisations are releasing this joint statement underscoring the critical importance of adopting memory-safe technology as a foundational pillar of digital infrastructure that is secure by design.
 
-Enisa reports \[[1](https://www.enisa.europa.eu/publications/enisa-threat-landscape-2024)\] that digital threats stemming from vulnerabilities are escalating at an alarming rate. Using memory-safe technology is crucial for building systems that are secure-by-design. In prior years, the U.S. Cybersecurity and Infrastructure Security Agency (CISA) and the U.S. White House have outlined this in numerous publications \[e.g. [2](https://www.cisa.gov/sites/default/files/2023-10/Shifting-the-Balance-of-Cybersecurity-Risk-Principles-and-Approaches-for-Secure-by-Design-Software.pdf), [3](https://www.cisa.gov/resources-tools/resources/case-memory-safe-roadmaps), [4](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/02/Final-ONCD-Technical-Report.pdf)\]. The broad support for this statement shows that many in Europe feel the same way.
+Enisa reports \[[1](https://www.enisa.europa.eu/publications/enisa-threat-landscape-2024)\] that digital threats stemming from vulnerabilities are escalating at an alarming rate. Using memory-safe technology is crucial for building systems that are secure-by-design. In prior years, the U.S. Cybersecurity and Infrastructure Security Agency (CISA) and the U.S. White House have outlined this in numerous publications \[e.g. [3](https://www.cisa.gov/sites/default/files/2023-10/Shifting-the-Balance-of-Cybersecurity-Risk-Principles-and-Approaches-for-Secure-by-Design-Software.pdf), [4](https://www.cisa.gov/resources-tools/resources/case-memory-safe-roadmaps), [5](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/02/Final-ONCD-Technical-Report.pdf)\]. The broad support for this statement shows that many in Europe feel the same way.
 
 The signatories call for European and national policy makers to acknowledge that the large-scale adoption of memory-safe tech in Europe is crucial, and to act accordingly by providing the incentives needed to substantially increase the current rate of adoption.
 
@@ -24,9 +24,9 @@ Memory safety refers to the ability of programming languages — the very buildi
 
 These memory-related vulnerabilities:
 
-* Account for 60%–70% of all software security vulnerabilities \[[5](https://www.chromium.org/Home/chromium-security/memory-safety/)\] in large codebases written in memory-unsafe languages. Examples of such code bases include the operating systems, web browsers, and screen-sharing solutions that businesses and citizens use every day; 
+* Account for 60%–70% of all software security vulnerabilities \[[2](https://www.memorysafety.org/docs/memory-safety/#how-common-are-memory-safety-vulnerabilities), [6](https://www.chromium.org/Home/chromium-security/memory-safety/)\] in large codebases written in memory-unsafe languages. Examples of such code bases include the operating systems, web browsers, and screen-sharing solutions that businesses and citizens use every day; 
 
-* Are typically hard to detect, costly to fix when they appear in production, and often used in exploits \[[6](https://heartbleed.com/), [7](https://googleprojectzero.blogspot.com/p/0day.html), [8](https://www.reuters.com/technology/cybersecurity/china-cyber-spies-hacked-computers-dutch-defence-ministry-report-2024-02-06/), [9](https://www.cisa.gov/news-events/ics-advisories/icsa-20-343-01)\];
+* Are typically hard to detect, costly to fix when they appear in production, and often used in exploits \[[7](https://heartbleed.com/), [8](https://googleprojectzero.blogspot.com/p/0day.html), [9](https://www.reuters.com/technology/cybersecurity/china-cyber-spies-hacked-computers-dutch-defence-ministry-report-2024-02-06/), [10](https://www.cisa.gov/news-events/ics-advisories/icsa-20-343-01)\];
 
 * Persist despite decades of developer training and tooling aimed at preventing them.
 
@@ -52,9 +52,9 @@ We are at a pivotal moment:
 
 * The cost of cyber breaches continues to climb, with some incidents costing billions;
 
-* There is an acute shortage of cybersecurity professionals and qualified software engineers \[[10](https://www.asisonline.org/security-management-magazine/latest-news/today-in-security/2024/october/skills-shortage-cybersecurity/)\]. 
+* There is an acute shortage of cybersecurity professionals and qualified software engineers \[[11](https://www.asisonline.org/security-management-magazine/latest-news/today-in-security/2024/october/skills-shortage-cybersecurity/)\]. 
 
-All of this demands a shift in mindset: from reactive patching to proactive prevention \[[11](https://www.orangecyberdefense.com/global/security-navigator)\].
+All of this demands a shift in mindset: from reactive patching to proactive prevention \[[12](https://www.orangecyberdefense.com/global/security-navigator)\].
 
 Considering security earlier in the development lifecycle is not a new concept, but it is certainly no longer optional. This has been recognised in Europe by the passing of the Cyber Resilience Act (CRA) and its security-by-design requirement. 
 
@@ -65,7 +65,7 @@ As CISA previously concluded, the most effective, systematic, and scalable way t
 In Europe, there is now some adoption of modern memory-safe tech and several incentives for it, including:
 
 + Regulation that demands a secure-by-design approach to cybersecurity (e.g., the CRA, which is in development); 
-+ The awareness that the current reactive approach to cybersecurity is no longer feasible \[[12](https://www.orangecyberdefense.com/global/security-navigator)\];
++ The awareness that the current reactive approach to cybersecurity is no longer feasible \[[13](https://www.orangecyberdefense.com/global/security-navigator)\];
 + The generally high skill level of engineers, which lowers the bar for using modern tech. 
 
 At the same time, individual businesses, including large industry players that build part of our digital infrastructure, perceive a lack of short-term economic incentive in the midst of fierce international competition to start migrating parts of large existing code bases. 
