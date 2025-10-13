@@ -70,7 +70,7 @@ In Europe, there is now some adoption of modern memory-safe tech and several inc
 
 At the same time, individual businesses, including large industry players that build part of our digital infrastructure, perceive a lack of short-term economic incentive in the midst of fierce international competition to start migrating parts of large existing code bases. 
 
-Society as a whole is bearing the long-term consequences and costs of the persisting vulnerabilities in these systems. In the Netherlands for example, the root cause of both the recent hack of the Public Prosecution office and China's spying on the Ministry of Defense in 2022-2023 was memory-unsafe code. 
+Society as a whole is bearing the long-term consequences and costs of the persisting vulnerabilities in these systems. In the Netherlands for example, the root cause of both the recent hack of the Public Prosecution office and a foreign state actor spying on the Ministry of Defense in 2022-2023 was memory-unsafe code. 
 
 To us this means that regulatory bodies have the obligation to recognize the detriment of the current situation, as well as the opportunities that faster adoption of memory-safe technologies would bring: lowering the costs of cybersecurity, both for companies and for society, and ensuring technological innovation, thus strengthening Europe’s competitive position.
 
@@ -86,7 +86,7 @@ To us this means that regulatory bodies have the obligation to recognize the det
 
 # Other References
  
-- 2025 Open Source Security and Risk Analysis” Report: 
+- 2025 Open Source Security and Risk Analysis Report: 
   [https://www.blackduck.com/resources/analyst-reports/open-source-security-risk-analysis.html](https://www.blackduck.com/resources/analyst-reports/open-source-security-risk-analysis.html)  
 - The Time is Now \- Practical Mem-Safety:  
   [https://github.com/dwizzzle/Presentations/blob/master/david\_weston-isrg\_tectonics\_keynote.pdf](https://github.com/dwizzzle/Presentations/blob/master/david_weston-isrg_tectonics_keynote.pdf)  
