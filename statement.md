@@ -64,7 +64,7 @@ As CISA previously concluded, the most effective, systematic, and scalable way t
 
 In Europe, there is now some adoption of modern memory-safe tech and several incentives for it, including:
 
-+ Regulation that demands a secure-by-design approach to cybersecurity (e.g., the CRA, which is in development); 
++ Regulation that demands a secure-by-design approach to cybersecurity (e.g., the CRA, which will be fully applicable in December 2027); 
 + The awareness that the current reactive approach to cybersecurity is no longer feasible \[[13](https://www.orangecyberdefense.com/global/security-navigator)\];
 + The generally high skill level of engineers, which lowers the bar for using modern tech. 
 
@@ -76,7 +76,7 @@ To us this means that regulatory bodies have the obligation to recognize the det
 
 # We Call On:
 
-* **Decision-makers to take a decisive stance**: Formally recognise memory safety as a cornerstone of Europe's cyber resilience strategy and include specific memory safety requirements in the implementation guidelines for the Cyber Resilience Act. Where existing memory-unsafe languages are in use, this would include recommendations on measures to reduce risk where feasible.
+* **Decision-makers to take a decisive stance**: Formally recognise memory safety as a cornerstone of Europe's cyber resilience strategy and include specific memory safety requirements in the implementation guidelines for the Cyber Resilience Act. Where existing memory-unsafe languages are in use, this would include recommendations on measures to reduce risk.
 
 * **Industries, to understand the economic and security business case for memory safety:** Look into the long-term financial advantages of memory-safe technologies, including reduced security incident costs, decreased downtime, lower maintenance burdens, and enhanced customer trust.
 
